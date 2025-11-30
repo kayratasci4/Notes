@@ -1,0 +1,5 @@
+{
+  "name": "Akıllı Notlar (Smart Notes)",
+  "description": "Google Gemini destekli, Türkçe arayüze sahip modern, minimalist ve akıllı not alma uygulaması. Otomatik başlık önerisi, özetleme ve metin düzeltme özellikleri sunar.",
+  "requestFramePermissions": []
+}
